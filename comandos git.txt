@@ -1,0 +1,15 @@
+On terminal
+    git init
+    git add .
+    git commit -m "<TYPE> [Title]: <description>"
+On GitHub
+    Create repository
+on terminal
+    git remote origin https://....
+    git branch -M main
+    git pull origin main
+    git push -u origin main
+
+    git add .
+    git commit -m "<TYPE> [Title]: <description>"
+    git push
